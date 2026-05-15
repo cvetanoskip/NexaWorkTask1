@@ -217,7 +217,8 @@ height: fit-content;
     .main-content{
         width: 100%;
         display:grid;
-        grid-row:3/span 4;
+        grid-row:3/span 7;
+        grid-column: 1;
 height: auto;
     }
     .page-header{
